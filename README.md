@@ -1,16 +1,15 @@
-### Hi there 👋
+## Hi there, I'm Kody :jack_o_lantern:
 
-<!--
-**kodyclemens/kodyclemens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:dollar: Software engineer irl
 
-Here are some ideas to get you started:
+:bangbang: I enjoy front end development. Currently I am focused on developing expertise in JS, TS and React
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:octocat: I’m currently contributing to a great open source project called [TakeNote](https://github.com/taniarascia/takenote)
+
+### Connect with me
+
+- [Twitter](https://twitter.com/kody_clemens)
+- [LinkedIn](https://www.linkedin.com/in/kody-clemens/)
+
+### GitHub sponsors
+I have a [sponsorship profile](https://github.com/sponsors/kodyclemens) where I help recent graduates break into the industry by providing some focused assistance on various topics.
