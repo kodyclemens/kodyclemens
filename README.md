@@ -1,4 +1,4 @@
-## Hi there, I'm Kody :jack_o_lantern:
+## Hi there, I'm Kody
 
 :dollar: Software engineer irl
 
